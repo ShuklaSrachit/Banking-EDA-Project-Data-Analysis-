@@ -9,8 +9,10 @@ This project demonstrates exploratory data analysis (EDA) techniques applied to 
 # Dataset Source:
 This dataset was obtained from Satyajit Pattnaik's youtube channel. All rights and credits belong to the original dataset creators. This project uses the dataset strictly for educational and demonstration purposes.
 
-Key Insights:
+# Key Insights:
 
 • High-income customers hold 2.3x more deposits than low-income customers.
+
 • Platinum loyalty customers maintain the highest savings balance.
+
 • Risk weighting increases with higher loan exposure.
